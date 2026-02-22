@@ -6,21 +6,23 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Navneet+Prasad;🚀+Full+Stack+Developer+%7C+3%2B+Years;💼+Actively+Seeking+Full-Time+Roles;⚡+React+%7C+Next.js+%7C+Node.js+Expert;🎯+Available+to+Join+Immediately!" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Navneet+Prasad!;🚀+Full+Stack+Developer+%7C+3%2B+Years;💼+Actively+Seeking+Full-Time+Roles;⚡+React+%7C+Next.js+%7C+Node.js;🟢+Available+to+Join+Immediately!)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4B4B?style=for-the-badge)](https://navneet-portfolio-ten.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-prasad8/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Navneetprasad1709@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NavneetPrasad1709)
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-4CAF50?style=for-the-badge)](#)
+[![Resume](https://img.shields.io/badge/📄_Resume-4CAF50?style=for-the-badge)](#)
 
 <br/>
 
 ![Available](https://img.shields.io/badge/🟢_AVAILABLE_FOR_HIRE-brightgreen?style=for-the-badge)
 ![Open to Work](https://img.shields.io/badge/💼_OPEN_TO_WORK-FF4B4B?style=for-the-badge)
-![Notice Period](https://img.shields.io/badge/⚡_CAN_JOIN_IMMEDIATELY-orange?style=for-the-badge)
+![Join Immediately](https://img.shields.io/badge/⚡_JOIN_IMMEDIATELY-orange?style=for-the-badge)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=NavneetPrasad1709&style=for-the-badge&color=FF4B4B&label=PROFILE+VIEWS"/>
 
@@ -42,7 +44,7 @@ const navneet = {
   projects  : "15+ shipped to production",
   apis      : "100+ integrated",
   status    : "🟢 Actively Job Hunting",
-  joinIn    : "Immediately",
+  joinIn    : "Immediately — No Notice Period",
   openTo    : [
     "Full-Time Roles",
     "Remote / Hybrid / On-site",
@@ -59,13 +61,13 @@ const navneet = {
 ### 💡 Why Hire Me?
 
 ✅ **3+ years** of real production experience  
-✅ **Full-stack** — frontend & backend  
+✅ **Full-stack** — strong on both frontend & backend  
 ✅ Shipped **15+ projects** used by real users  
 ✅ Strong grasp of **system design** & **clean code**  
 ✅ Fast learner, **team player**, self-driven  
 ✅ Experience across **startups to enterprises**  
-✅ **Available immediately** — no waiting period  
-✅ Passionate about **quality** over quick fixes  
+✅ **No notice period** — ready from Day 1  
+✅ Passionate about **impact**, not just output  
 
 </td>
 </tr>
@@ -86,7 +88,7 @@ const navneet = {
 | Layer | Technologies |
 |:---:|:---|
 | **Frontend** | React.js, Next.js 14, TypeScript, JavaScript, Tailwind CSS, GSAP, Framer Motion |
-| **Backend** | Node.js, Express.js, REST APIs, GraphQL, WebSockets |
+| **Backend** | Node.js, Express.js, REST APIs, GraphQL, WebSockets, Socket.IO |
 | **Database** | PostgreSQL, MongoDB, Redis, Supabase, Prisma ORM |
 | **DevOps** | Vercel, AWS, Docker, Git, GitHub, CI/CD |
 | **Tools** | Figma, Postman, VS Code, WordPress, Shopify |
@@ -212,15 +214,11 @@ const navneet = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NavneetPrasad1709&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavneetPrasad1709&theme=tokyo-night&hide_border=true&area=true&area_color=FF4B4B&line=FF4B4B&point=ffffff" width="98%"/>
 </div>
 
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NavneetPrasad1709/NavneetPrasad1709/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NavneetPrasad1709&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -240,16 +238,13 @@ const navneet = {
 
 ---
 
-## 📬 I'm Actively Looking For My Next Role
+## 📬 Recruiter? Let's Talk!
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF4B4B&center=true&vCenter=true&width=550&lines=💼+Open+to+Full-Time+%2F+Remote+%2F+Hybrid+roles;⚡+Available+to+join+immediately;🤝+Let's+build+something+great+together!"/>
-
-<br/>
-
-> 💡 **If you're a recruiter or hiring manager** — I'd love to connect!
-> I'm a Full Stack Developer with 3+ years of experience, ready to contribute from **Day 1**.
+> 💡 I'm a **Full Stack Developer** with **3+ years** of production experience.
+> **No notice period. Ready to join immediately.**
+> If you have a role that fits — I'd love to connect!
 
 <br/>
 
@@ -257,7 +252,7 @@ const navneet = {
 &nbsp;
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Navneetprasad1709@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-prasad8/)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-prasad8/)
 
 <br/><br/>
 
