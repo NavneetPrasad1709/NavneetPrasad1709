@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FF4B4B&height=200&section=header&text=Navneet%20Prasad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=85&descSize=18" width="100%"/>
 </div>
 
 <br/>
@@ -179,6 +180,22 @@ const navneet = {
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavneetPrasad1709&theme=tokyonight&hide_border=true&layout=compact&border_radius=12" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NavneetPrasad1709&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavneetPrasad1709&theme=tokyo-night&hide_border=true&area=true&area_color=FF4B4B&line=FF4B4B&point=ffffff" width="98%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NavneetPrasad1709&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+</div>
+
+---
 
 ## 📈 By The Numbers
 
