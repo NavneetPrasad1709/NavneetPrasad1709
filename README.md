@@ -202,23 +202,6 @@ const navneet = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavneetPrasad1709&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavneetPrasad1709&theme=tokyonight&hide_border=true&layout=compact&border_radius=12" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NavneetPrasad1709&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavneetPrasad1709&theme=tokyo-night&hide_border=true&area=true&area_color=FF4B4B&line=FF4B4B&point=ffffff" width="98%"/>
-</div>
-
-
----
 
 ## 📈 By The Numbers
 
