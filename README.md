@@ -5,84 +5,104 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/NavneetPrasad1709.png" width="120" style="border-radius:50%"/>
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B4B&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Building+things+that+scale+%F0%9F%9A%80;3%2B+Years+of+Production+Experience+%F0%9F%92%BC;Open+to+Full-Time+Roles+%F0%9F%8E%AF;Let%27s+build+something+great+%F0%9F%94%A5" alt="Typing SVG" />
 
-  <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Navneet+Prasad;🚀+Full+Stack+Developer+%7C+3%2B+Years;💼+Actively+Seeking+Full-Time+Roles;⚡+React+%7C+Next.js+%7C+Node.js+Expert;🎯+Available+to+Join+Immediately!" />
 
-  <a href="https://navneet-portfolio-ten.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-FF4B4B?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/navneet-prasad8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:Navneetprasad1709@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/NavneetPrasad1709" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<br/><br/>
 
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=NavneetPrasad1709&style=for-the-badge&color=FF4B4B&label=PROFILE+VIEWS"/>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4B4B?style=for-the-badge)](https://navneet-portfolio-ten.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-prasad8/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Navneetprasad1709@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NavneetPrasad1709)
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-4CAF50?style=for-the-badge)](#)
+
+<br/>
+
+![Available](https://img.shields.io/badge/🟢_AVAILABLE_FOR_HIRE-brightgreen?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/💼_OPEN_TO_WORK-FF4B4B?style=for-the-badge)
+![Notice Period](https://img.shields.io/badge/⚡_CAN_JOIN_IMMEDIATELY-orange?style=for-the-badge)
+
+<img src="https://komarev.com/ghpvc/?username=NavneetPrasad1709&style=for-the-badge&color=FF4B4B&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=NavneetPrasad1709&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12"/>
+## 🎯 What I Bring To Your Team
 
-### 🧠 `whoami`
+<table>
+<tr>
+<td width="50%">
 
 ```typescript
 const navneet = {
-  location  : "Noida, India 🇮🇳",
   role      : "Full Stack Developer",
-  company   : "Keymantra Consulting LLP",
+  location  : "Noida, India 🇮🇳",
   experience: "3+ years",
-  projects  : "15+ shipped",
+  projects  : "15+ shipped to production",
   apis      : "100+ integrated",
+  status    : "🟢 Actively Job Hunting",
+  joinIn    : "Immediately",
   openTo    : [
     "Full-Time Roles",
-    "Freelance Projects", 
-    "Open Source Collabs"
+    "Remote / Hybrid / On-site",
+    "Startups & Product Companies",
+    "Service-Based Companies",
   ],
-  motto: "Ship fast. Scale smart. Stay clean.",
+  contact   : "Navneetprasad1709@gmail.com",
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%">
+
+### 💡 Why Hire Me?
+
+✅ **3+ years** of real production experience  
+✅ **Full-stack** — frontend & backend  
+✅ Shipped **15+ projects** used by real users  
+✅ Strong grasp of **system design** & **clean code**  
+✅ Fast learner, **team player**, self-driven  
+✅ Experience across **startups to enterprises**  
+✅ **Available immediately** — no waiting period  
+✅ Passionate about **quality** over quick fixes  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚡ Tech Stack
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,postgres,mongodb,redis,supabase,tailwind,prisma,graphql,docker,aws,vercel,figma,git,github,postman&perline=10"/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,postgres,mongodb,redis,supabase,tailwind,prisma,graphql,docker,aws,vercel,figma,git,github,postman&perline=10" />
+<br/>
+
+<div align="center">
+
+| Layer | Technologies |
+|:---:|:---|
+| **Frontend** | React.js, Next.js 14, TypeScript, JavaScript, Tailwind CSS, GSAP, Framer Motion |
+| **Backend** | Node.js, Express.js, REST APIs, GraphQL, WebSockets |
+| **Database** | PostgreSQL, MongoDB, Redis, Supabase, Prisma ORM |
+| **DevOps** | Vercel, AWS, Docker, Git, GitHub, CI/CD |
+| **Tools** | Figma, Postman, VS Code, WordPress, Shopify |
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🏗️ Featured Projects
 
-<div align="center">
-
-<a href="https://voxscribe-ten.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavneetPrasad1709&repo=voxscribe&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
-
-<br/>
-
-<table align="center">
+<table>
 <tr>
 <td width="50%" align="center">
 
 ### 🎙️ VoxScribe
-**AI Transcription Platform**
+**AI-Powered Transcription App**
 
 > Real-time speech-to-text · Speaker detection · Multi-format export
 
@@ -98,7 +118,7 @@ const navneet = {
 <td width="50%" align="center">
 
 ### 💬 Nexus Chat
-**Real-Time Chat App**
+**Real-Time Full Stack Chat**
 
 > WebSocket messaging · JWT Auth · Group channels · Live typing
 
@@ -134,7 +154,7 @@ const navneet = {
 ### 🖥️ macOS Portfolio
 **Interactive Dev Portfolio**
 
-> Glassmorphism UI · Window animations · Desktop-style nav
+> Glassmorphism UI · Window animations · Desktop navigation
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
@@ -150,7 +170,7 @@ const navneet = {
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
 <div align="center">
 
@@ -158,21 +178,21 @@ const navneet = {
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  🏢  KEYMANTRA CONSULTING LLP                          Jan 2025 – Present   ║
 ║      Software Developer · Frontend / Full Stack · Noida, India             ║
-║      ▸ Scalable Next.js + REST API production systems                      ║
-║      ▸ API contract design · State management optimization                 ║
-║      ▸ Feature planning · Production debugging                             ║
+║      ▸ Scalable Next.js apps with REST API integration                     ║
+║      ▸ Clean API contracts · Optimized state management                    ║
+║      ▸ Feature planning · Production debugging & delivery                  ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  🏢  DELTA 360 SERVICES PVT. LTD.                     May 2023 – Dec 2024  ║
 ║      Software Developer · Full Stack · Noida, India                        ║
-║      ▸ React.js + Node.js + PostgreSQL full-stack apps                     ║
+║      ▸ React.js + Node.js + PostgreSQL full-stack systems                  ║
 ║      ▸ Backend API design · Database performance tuning                    ║
-║      ▸ Multi-project production support                                    ║
+║      ▸ Multi-project production support & feature delivery                 ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  🏢  CONGRUEX ASIA PACIFIC LLP                        Mar 2021 – Apr 2023  ║
 ║      UI/UX Developer · Frontend · Noida, India                             ║
 ║      ▸ Responsive UIs from wireframes & design systems                     ║
-║      ▸ Accessibility improvements · Component standards                    ║
-║      ▸ Legacy frontend code maintenance & enhancement                      ║
+║      ▸ Accessibility improvements · Component consistency                  ║
+║      ▸ Legacy frontend enhancement across multiple releases                ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -180,15 +200,15 @@ const navneet = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavneetPrasad1709&theme=tokyonight&hide_border=true&layout=compact&border_radius=12" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NavneetPrasad1709&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NavneetPrasad1709&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavneetPrasad1709&theme=tokyonight&hide_border=true&layout=compact&border_radius=12" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavneetPrasad1709&theme=tokyo-night&hide_border=true&area=true&area_color=FF4B4B&line=FF4B4B&point=ffffff" width="98%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NavneetPrasad1709&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
 </div>
 
 <div align="center">
@@ -197,48 +217,50 @@ const navneet = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NavneetPrasad1709/NavneetPrasad1709/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
 ## 📈 By The Numbers
 
 <div align="center">
 
-| 🗓️ Experience | 🚀 Projects Shipped | 🔌 APIs Integrated | 🏢 Companies |
-|:---:|:---:|:---:|:---:|
-| **3+ Years** | **15+** | **100+** | **3** |
+```
+  ┌──────────────────┬──────────────────┬──────────────────┬──────────────────┐
+  │   3+ YEARS       │  15+ PROJECTS    │   100+ APIS      │   3 COMPANIES    │
+  │   Experience     │  Shipped         │   Integrated     │   Worked At      │
+  └──────────────────┴──────────────────┴──────────────────┴──────────────────┘
+```
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NavneetPrasad1709/NavneetPrasad1709/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
+## 📬 I'm Actively Looking For My Next Role
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Great
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF4B4B&center=true&vCenter=true&width=500&lines=Open+to+full-time+roles...;Open+to+freelance+projects...;Let%27s+build+something+meaningful!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF4B4B&center=true&vCenter=true&width=550&lines=💼+Open+to+Full-Time+%2F+Remote+%2F+Hybrid+roles;⚡+Available+to+join+immediately;🤝+Let's+build+something+great+together!"/>
 
 <br/>
 
-<a href="https://navneet-portfolio-ten.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_View_Portfolio-FF4B4B?style=for-the-badge"/>
-</a>
+> 💡 **If you're a recruiter or hiring manager** — I'd love to connect!
+> I'm a Full Stack Developer with 3+ years of experience, ready to contribute from **Day 1**.
+
+<br/>
+
+[![View Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-FF4B4B?style=for-the-badge)](https://navneet-portfolio-ten.vercel.app)
 &nbsp;
-<a href="mailto:Navneetprasad1709@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Navneetprasad1709@gmail.com)
 &nbsp;
-<a href="https://www.linkedin.com/in/navneet-prasad8/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-prasad8/)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4B4B&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4B4B&height=100&section=footer&text=Open+to+Work+%F0%9F%9A%80&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 </div>
