@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-prasad8/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Navneetprasad1709@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NavneetPrasad1709)
-[![Resume](https://img.shields.io/badge/📄_Resume-4CAF50?style=for-the-badge)](#)
+[![Resume](https://img.shields.io/badge/📄_Resume-4CAF50?style=for-the-badge)](https://drive.google.com/file/d/1hOpp5DkGcxXLuRc15hddF-73ocN0lb2I/view?usp=sharing)
 
 <br/>
 
@@ -217,9 +217,6 @@ const navneet = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavneetPrasad1709&theme=tokyo-night&hide_border=true&area=true&area_color=FF4B4B&line=FF4B4B&point=ffffff" width="98%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NavneetPrasad1709&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-</div>
 
 ---
 
