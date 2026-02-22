@@ -1,69 +1,37 @@
 <div align="center">
 
-```
-███╗   ██╗ █████╗ ██╗   ██╗███╗   ██╗███████╗███████╗████████╗
-████╗  ██║██╔══██╗██║   ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝
-██╔██╗ ██║███████║██║   ██║██╔██╗ ██║█████╗  █████╗     ██║   
-██║╚██╗██║██╔══██║╚██╗ ██╔╝██║╚██╗██║██╔══╝  ██╔══╝     ██║   
-██║ ╚████║██║  ██║ ╚████╔╝ ██║ ╚████║███████╗███████╗   ██║   
-╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝   
-```
+<img src="https://github.com/NavneetPrasad1709.png" width="130" style="border-radius:50%;border:3px solid #FF4B4B;" alt="Navneet Prasad"/>
 
-# Hey, I'm Navneet Prasad 👋
-### Full Stack Developer · 3+ Years · Building things that scale
+<h1>Navneet Prasad</h1>
+<h3>Full Stack Developer · 3+ Years · Building things that scale</h3>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://navneet-portfolio-tau.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4B4B?style=for-the-badge)](https://navneet-portfolio-ten.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-prasad8/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Navneetprasad1709@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NavneetPrasad1709)
+
+![Profile Views](https://visitcount.itsvg.in/api?id=NavneetPrasad1709&icon=5&color=6)
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
 ```ts
 const navneet = {
-  role: "Full Stack Developer",
-  location: "Noida, India 🇮🇳",
-  experience: "3+ years",
-  currentlyAt: "Keymantra Consulting LLP",
-  focus: ["Scalable Systems", "Clean Architecture", "Production-Ready Code"],
-  passions: ["Problem Solving", "Performance Optimization", "Great UX"],
-  openTo: ["Full-Time Roles", "Freelance Projects", "Collaborations"],
-  contact: "Navneetprasad1709@gmail.com",
+  role:         "Full Stack Developer",
+  location:     "Noida, India 🇮🇳",
+  experience:   "3+ years",
+  currentlyAt:  "Keymantra Consulting LLP",
+  focus:        ["Scalable Systems", "Clean Architecture", "Production-Ready Code"],
+  openTo:       ["Full-Time Roles", "Freelance Projects", "Collaborations"],
+  portfolio:    "https://navneet-portfolio-ten.vercel.app",
+  contact:      "Navneetprasad1709@gmail.com",
 };
 ```
 
 > *"Good software isn't just about working — it's about working well, efficiently, and sustainably."*
-
----
-
-## 🚀 What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Frontend
-- Build pixel-perfect UIs with **React.js** & **Next.js 14**
-- Craft smooth animations with **GSAP** & **Framer Motion**
-- Write scalable, typed code with **TypeScript**
-- Style with **Tailwind CSS** for rapid, consistent design
-
-</td>
-<td width="50%">
-
-### ⚙️ Backend
-- Design clean REST APIs with **Node.js** & **Express**
-- Work with **PostgreSQL**, **MongoDB**, **Redis**
-- Manage auth, realtime, and storage via **Supabase**
-- Deploy and scale on **Vercel** & **AWS**
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -112,7 +80,7 @@ Real-time audio & video to text with speaker detection, downloadable transcripts
 
 `Next.js` `TypeScript` `OpenAI APIs` `Tailwind CSS`
 
-[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://voxscribe-ten.vercel.app)
+[![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=vercel&logoColor=white)](https://voxscribe-ten.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github)](https://github.com/NavneetPrasad1709/voxscribe)
 
 </td>
@@ -125,7 +93,7 @@ Production-grade WebSocket chat with JWT auth, group channels, DMs, and live typ
 
 `React` `Node.js` `Socket.IO` `MongoDB`
 
-[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](#)
+[![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=vercel&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github)](#)
 
 </td>
@@ -140,7 +108,7 @@ Track product prices in real-time and get instant alerts when your target price 
 
 `Next.js 14` `Supabase` `Cheerio` `PostgreSQL`
 
-[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](#)
+[![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=vercel&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github)](#)
 
 </td>
@@ -153,7 +121,7 @@ macOS-inspired portfolio with glassmorphism UI, smooth window animations, and de
 
 `React.js` `Framer Motion` `Tailwind CSS` `Zustand`
 
-[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](#)
+[![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=vercel&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github)](#)
 
 </td>
@@ -165,20 +133,23 @@ macOS-inspired portfolio with glassmorphism UI, smooth window animations, and de
 ## 💼 Work Experience
 
 ```
-🏢 Keymantra Consulting LLP          Jan 2025 – Present
-   Software Developer (Frontend / Full Stack) · Noida, India
-   → Building scalable Next.js apps integrated with REST APIs
-   → Designing clean API contracts with backend teams
+🏢  Keymantra Consulting LLP                          Jan 2025 – Present
+    Software Developer (Frontend / Full Stack) · Noida, India
+    → Building scalable Next.js apps integrated with REST APIs
+    → Designing clean API contracts with backend teams
+    → Optimizing state management and modular architecture
 
-🏢 Delta 360 Services Pvt. Ltd.      May 2023 – Dec 2024
-   Software Developer (Full Stack) · Noida, India
-   → Full-stack apps with React.js, Node.js & PostgreSQL
-   → Optimized backend APIs and database performance
+🏢  Delta 360 Services Pvt. Ltd.                      May 2023 – Dec 2024
+    Software Developer (Full Stack) · Noida, India
+    → Full-stack apps with React.js, Node.js & PostgreSQL
+    → Optimized backend APIs and database performance
+    → Production support across multiple live projects
 
-🏢 Congruex Asia Pacific LLP         Mar 2021 – Apr 2023
-   UI/UX Developer (Frontend) · Noida, India
-   → Built responsive UIs from wireframes and design systems
-   → Improved accessibility and component consistency
+🏢  Congruex Asia Pacific LLP                         Mar 2021 – Apr 2023
+    UI/UX Developer (Frontend) · Noida, India
+    → Built responsive UIs from wireframes and design systems
+    → Improved accessibility and component consistency
+    → Enhanced legacy frontend code across project releases
 ```
 
 ---
@@ -216,13 +187,11 @@ macOS-inspired portfolio with glassmorphism UI, smooth window animations, and de
 I'm actively looking for **full-time roles** and **exciting projects**.
 If you're building something meaningful, let's talk.
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF4B4B?style=for-the-badge)](https://navneet-portfolio-tau.vercel.app)
+[![Visit Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF4B4B?style=for-the-badge)](https://navneet-portfolio-ten.vercel.app)
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Navneetprasad1709@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-prasad8/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-prasad8/)
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=NavneetPrasad1709&icon=5&color=6)
 
 *⚡ Built with passion from Noida, India*
 
